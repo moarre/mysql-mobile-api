@@ -8,7 +8,7 @@ const connection = mysql.createConnection({
   host: '127.0.0.1',
   user: 'root',
   password: 'root',
-  database: 'rentitdb'
+  database: 'rentitdb' //edit your db
 });
 
 // Connect to the database
